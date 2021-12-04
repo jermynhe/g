@@ -1,3 +1,3 @@
-module github.com/minhjh/g/v1
+module github.com/minhjh/g/v2
 
 go 1.17
